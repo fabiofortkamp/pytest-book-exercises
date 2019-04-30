@@ -7,6 +7,7 @@ name = "pypi"
 pytest = "*"
 ipython = "*"
 bpython = "*"
+urllib3 = ">=1.24.2"
 
 [dev-packages]
 
